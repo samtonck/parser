@@ -1,0 +1,9 @@
+version: '3'
+services:
+  core_api:
+    build: .
+    container_name: "core_api_container"
+    ports:
+      - "15400:15400"
+    volumes:
+      - ./app/:/app

@@ -1,4 +1,4 @@
-# test_mission_parser
+# parser
 
 -Запуск - <strong>docker-compose up </strong><br>
 -Запуск в  в фоновом режиме - <strong>docker-compose up -d </strong><br>
